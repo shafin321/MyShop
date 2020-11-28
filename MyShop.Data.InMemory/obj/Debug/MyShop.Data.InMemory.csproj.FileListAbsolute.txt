@@ -1,0 +1,9 @@
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\bin\Debug\MyShop.Data.InMemory.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\bin\Debug\MyShop.Data.InMemory.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\obj\Debug\MyShop.Data.InMemory.csprojAssemblyReference.cache
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\obj\Debug\MyShop.Data.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\obj\Debug\MyShop.Data.InMemory.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\obj\Debug\MyShop.Data.InMemory.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\bin\Debug\MyShop.Core.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\bin\Debug\MyShop.Core.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Data.InMemory\obj\Debug\MyShop.Data.InMemory.csproj.CopyComplete

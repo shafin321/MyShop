@@ -1,0 +1,2 @@
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUi.Tests\obj\Debug\MyShop.WebUi.Tests.vbprojAssemblyReference.cache
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUi.Tests\obj\Debug\MyShop.WebUi.Tests.vbproj.CoreCompileInputs.cache
