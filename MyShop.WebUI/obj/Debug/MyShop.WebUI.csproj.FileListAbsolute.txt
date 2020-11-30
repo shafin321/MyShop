@@ -114,3 +114,15 @@ C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.csproj.
 C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.csproj.CopyComplete
 C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.dll
 C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Abstractions.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Container.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Mvc.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\WebActivatorEx.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Abstractions.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Container.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Mvc.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Mvc.xml

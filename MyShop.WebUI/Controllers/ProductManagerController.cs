@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using MyShop.Core.Contracts;
 using MyShop.Core.Model;
 using MyShop.Core.ViewModel;
 using MyShop.Data.InMemory;
@@ -13,17 +14,23 @@ namespace MyShop.WebUI.Controllers
     {
         //    ProductRepository _context;
         //    ProductCategoryRepsoitory context;
-        InMemoryRepository<Product> _context;
-        InMemoryRepository<ProductCategory> context;
+        //InMemoryRepository<Product> _context;
+        //InMemoryRepository<ProductCategory> context;
+
+        IRepository<Product> _context;
+        IRepository<ProductCategory> context;
 
 
-        public ProductManagerController()
+        public ProductManagerController( IRepository<Product> contextProduct, IRepository<ProductCategory> contextProductCateogory)
         {
             //_context = new ProductRepository();
             //context = new ProductCategoryRepsoitory();
 
-            _context = new InMemoryRepository<Product>();
-            context = new InMemoryRepository<ProductCategory>();
+            //_context = new InMemoryRepository<Product>();
+            //context = new InMemoryRepository<ProductCategory>();
+
+            _context = contextProduct;
+            context = contextProductCateogory;
 
             //_context = new ProductRepository();
         }

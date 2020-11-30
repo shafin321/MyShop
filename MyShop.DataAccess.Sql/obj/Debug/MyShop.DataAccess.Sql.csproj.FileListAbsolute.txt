@@ -4,3 +4,13 @@ C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.Data
 C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.csproj.CoreCompileInputs.cache
 C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.dll
 C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\bin\Debug\MyShop.DataAccess.Sql.dll.config
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\bin\Debug\EntityFramework.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\bin\Debug\MyShop.Core.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\bin\Debug\MyShop.Core.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\bin\Debug\EntityFramework.xml
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.csproj.CopyComplete
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.Migrations.Initial.resources
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.csproj.GenerateResource.cache

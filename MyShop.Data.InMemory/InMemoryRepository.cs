@@ -1,4 +1,5 @@
-﻿using MyShop.Core.Model;
+﻿using MyShop.Core.Contracts;
+using MyShop.Core.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 namespace MyShop.Data.InMemory
 {
     //Using Generics
-  public  class InMemoryRepository<T> where T:BaseEntity
+    public class InMemoryRepository<T> : IRepository<T> where T : BaseEntity
     {
         ObjectCache cache = MemoryCache.Default;
         List<T> items;
@@ -39,7 +40,7 @@ namespace MyShop.Data.InMemory
         {
             T updateT = items.Find(i => i.Id == t.Id);
 
-            if(updateT != null)
+            if (updateT != null)
             {
                 updateT = t;
             }
@@ -73,13 +74,13 @@ namespace MyShop.Data.InMemory
         public void Delete(string id)
         {
             T toDelete = items.Find(d => d.Id == id);
-            if(toDelete != null)
+            if (toDelete != null)
             {
                 items.Remove(toDelete);
             }
             else
             {
-                throw new Exception("Not found"); 
+                throw new Exception("Not found");
             }
         }
     }
