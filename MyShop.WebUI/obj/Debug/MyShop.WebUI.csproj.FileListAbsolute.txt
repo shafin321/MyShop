@@ -126,3 +126,4 @@ C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Abstractions.pdb
 C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Container.pdb
 C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Mvc.pdb
 C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\Unity.Mvc.xml
+C:\Users\Shujaul\source\repos\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.Sql.dll.config
