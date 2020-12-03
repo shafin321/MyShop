@@ -1,6 +1,6 @@
 C:\Users\Shujaul\source\repos\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
 C:\Users\Shujaul\source\repos\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csprojAssemblyReference.cache
 C:\Users\Shujaul\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
 C:\Users\Shujaul\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
 C:\Users\Shujaul\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb
-C:\Users\Shujaul\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csprojAssemblyReference.cache
