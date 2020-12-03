@@ -6,25 +6,15 @@
 
 <h2>Details</h2>
 
+<h2>@Html.DisplayFor(model => model.Name)</h2>
+
 <div>
-    <h4>Product</h4>
-
-    <div class="col-md-4">
-        <img class="img-responsive" style="height:400px"  src="~/Content/images/@Model.Image"/>
+    <div class="col-md-2">
+        <img class="img-responsive" src="~/Content/images/@Model.Image" />
     </div>
-
     <div class="col-md-10">
-        <hr />
         <dl class="dl-horizontal">
 
-
-            <dt>
-                @Html.DisplayNameFor(model => model.Name)
-            </dt>
-
-            <dd>
-                @Html.DisplayFor(model => model.Name)
-            </dd>
 
             <dt>
                 @Html.DisplayNameFor(model => model.Description)
@@ -39,22 +29,14 @@
             </dt>
 
             <dd>
-                @Html.DisplayFor(model => model.Price)
-            </dd>
-
-            <dt>
-                @Html.DisplayNameFor(model => model.Category)
-            </dt>
-
-            <dd>
-                @Html.DisplayFor(model => model.Category)
+                $@Html.DisplayFor(model => model.Price)
             </dd>
 
             <dt></dt>
-            <dd>
-                <a href="#" class="btn btn-default">Add to Basket</a>
-            </dd>
+            <dd><a href="@Url.Action("AddToBasket", "Basket", new { Id=Model.Id })" class="btn btn-default">Add To Basket</a></dd>
 
+            <dt></dt>
+            <dd>@Html.ActionLink("Back to List", "Index")</dd>
         </dl>
     </div>
 </div>
