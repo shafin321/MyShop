@@ -1,0 +1,14 @@
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\MyShop.UnitTest.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\MyShop.UnitTest.pdb
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\obj\Debug\MyShop.UnitTest.csprojAssemblyReference.cache
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\obj\Debug\MyShop.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\obj\Debug\MyShop.UnitTest.csproj.CopyComplete
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\obj\Debug\MyShop.UnitTest.dll
+C:\Users\Shujaul\source\repos\MyShop\MyShop.UnitTest\obj\Debug\MyShop.UnitTest.pdb

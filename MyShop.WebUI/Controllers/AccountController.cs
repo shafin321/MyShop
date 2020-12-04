@@ -163,7 +163,7 @@ namespace MyShop.WebUI.Controllers
                         FirstName = model.FirstName,
                         LastName = model.LastName,
                         Email = model.Email,
-                        UserId = model.UserId,
+                        UserId=user.Id
 
                     };
                     _cutomerRepository.Insert(customer);

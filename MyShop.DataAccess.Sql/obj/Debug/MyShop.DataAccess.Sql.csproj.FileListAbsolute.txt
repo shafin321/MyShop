@@ -18,3 +18,4 @@ C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.Data
 C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.dll
 C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.pdb
 C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.Migrations.chagedata.resources
+C:\Users\Shujaul\source\repos\MyShop\MyShop.DataAccess.Sql\obj\Debug\MyShop.DataAccess.Sql.Migrations.order.resources
